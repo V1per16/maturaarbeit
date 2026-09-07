@@ -1,0 +1,5 @@
+## Wieso mache ich diese Arbeit?
+Informatik oder Flugzeuge bieten für mich keine Herausforderung. Eine App zu programmieren, TypeScript zu lernen, oder zu wissen, wann welches Flugzeug fliegt ist vielleicht interessant und amüsant, bietet mir aber keine echte Herausforderung.
+Jedoch die lange Disziplin, mentale Stärke und vorallem die Verbissenheit die es braucht für die Vorbereitung eines Muay Thai Kampfes ist, und das weiss ich von mir selbst, eine Schwäche. Und genau deshalb will ich diese Arbeit bis zum Schluss, und ohne zweite Gedanken, durchziehen, weil ich weiss, dass es schwierig wird sein für mich.
+Dass der Kampf nicht einfach wird sein und dass ich 100% geben werden muss um zu gewinnen, das weiss ich. Aber umso stärker und besser fühle ich mich, wenn ich es dann tatsächlich geschafft habe.
+Und genau deshalb, **weil das meine Herausforderung ist** (physisch, aber vorallem mental), mache ich diese Arbeit

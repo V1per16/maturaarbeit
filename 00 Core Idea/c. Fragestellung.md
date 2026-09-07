@@ -1,0 +1,1 @@
+Welche physischen und technischen Veränderungen lassen sich bei mir während der Vorbereitung auf einen ersten K1 Amateurkampf zwischen Trainingsbeginn und Kampf feststellen?

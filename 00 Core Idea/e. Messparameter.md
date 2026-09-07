@@ -1,0 +1,47 @@
+# Technisch
+- Video Analyse
+	- Schattenboxen
+	- Sparring
+		- Fehler
+		- Verteidigung / Anz. Schläge/Kicke eingesteckt
+		- Bewegung im Ring
+	- Pad Work
+		- Grundtechniken
+		- Kombinationen
+- Reaktionsgeschwindigkeit (Mit App)
+
+# Physisch
+- Passiv
+	- Körperzusammensetzung (mit Smart Watch)
+		- Gewicht
+			- 60.0kg
+		- Körperfettanteil
+			- 11.2% / 6.8kg
+		- Muskelanteil
+			- 29.2kg
+		- BMI
+			- 19.4
+- Aktiv
+	- Ausdauer
+		- 12 min Lauf
+			- 20.05.2026 (Mit GPS von der Smart Watch gemessen auf der Laufbahn in der Schule, GPS nicht sehr genau, deshalb noch Theoriewerte von mir dazu)
+				- Mit Smart Watch:
+					- Distanz: 3.34km
+					- Avg. Pace: 03'34'' /km
+					- Avg. Heart Rate: 182bpm
+					- Avg. Cadence: 170spm
+				- Theoriewerte (eine Runde innere Bahn = 270m - 10 Runden + 38m + 10x5m Toleranz für Ungenauigkeit auf der Bahn)
+					- Distanz: 2.788km
+					- Avg. Pace: 04'30'' /km
+		- Ruheherzfrequenz (mit Smart Watch)
+			- Avg. So 10/5 - Sa 16/5:
+				- 55.14bpm
+	- Kraft / Power
+		- 1RM Benchpress
+			- 11.05.2026 16:18 Uhr 70kg 1 rep
+		- Max Pull up in a row
+			- 11.05.2026 16:20 Uhr 9 reps schmal
+		- Hochsprung aus dem Stand
+	- Beweglichkeit
+		- Sit and Reach Test
+		- Spagat (Winkel)

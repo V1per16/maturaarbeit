@@ -1,0 +1,18 @@
+- ## 14.04.2026
+	- #### Erste genaue Besprechung mit Herr Angst
+	- Wir haben die Idee und Hypothese der Maturarbeit angeschaut und verfeinert und sind zu einer ersten Version der Hypothese gekommen. 
+	- Ausserdem haben wir die Messparameter festgelegt.
+- ## April
+	- Ich habe Tägliche / Wöchentliche Feedbacks für mich selbst gemacht, wobei ich schnell bemerkt habe, dass dies einerseits zeitaufwendig und andererseits eher überflüssig ist.
+- ## Woche 10. - 16.05.2026
+	- Im Laufe dieser Woche habe ich die Messparameter gemessen und Videos gemacht im Training.
+- ## Ende Mai
+	- #### Rücksprache mit Herr Angst
+		- Wir haben festgelegt, dass ich anstatt drei Aspekten (Mental, Physisch und Technisch) nur zwei nehme (Physisch und Technisch), da der Mentale Aspekt sehr schwer ist zu messen und dadurch den Rahmen sprengen würde.
+- ## Phase Vorbereitung Kampf (Mai - September 2026)
+	- #### Intensive Vorbereitung für den Kampf
+		- Bis vor den Sommerferien habe ich im Training viel Technik gelernt
+		- Seit den Sommerferien habe ich intensiv meine Ausdauer und Kraft trainiert.
+		- An verschiedenen Daten Videos aufgenommen im Training (zb. 15.05. Messdaten aufnehmen / 15.06. / 26.06.)
+- ## Phase Theorie (August 2026 - Ende Maturarbeit)
+	- 
