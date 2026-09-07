@@ -14,7 +14,7 @@ Fachgebiet: Sport
 
 Muay Thai ist eine beliebte und weit verbreitete Kampfsportart die ursprünglich aus Thailand stammt. Sie fördert die physische sowie die psychische Seite. Viele Anfänger streben nach dem Ziel des ersten Amateurkampfes. Das ist jedoch ein anspruchsvolles Ziel, welches physische als auch mentale Herausforderungen mit sich bringt.
 
-Ich persönlich trainiere seit mehr als zwei Jahren Muay Thai und plane meinen ersten Kampf im Herbst 2026. Ich möchte, da mich Kampfsport und vor allem Muay Thai begeistert, diesen Prozess der Vorbereitung in den Aspekten Fitness und Technik in der Maturarbeit sowohl dokumentieren als auch wissenschaftlich analysieren, was eine effektive Trainingsmethode ist.
+Ich persönlich trainiere seit mehr als zwei Jahren Muay Thai und plane meinen ersten Kampf im Herbst 2026. Ich möchte, da mich Kampfsport und vor allem Muay Thai begeistert, diesen Prozess der Vorbereitung in den Aspekten Fitness und Technik in der Maturaarbeit sowohl zu dokumentieren als auch wissenschaftlich zu analysieren, welche physischen und technischen Veränderungen sich im Verlauf dieser Vorbereitung feststellen lassen.
 
 Ich werde jede Woche bis zum Kampf intensiv trainieren und einen Trainingsplan für die genannten zwei Aspekte erstellen und im Training umsetzen, um mich bestmöglich auf den Kampf vorzubereiten. Ich werde Protokoll über meine Erkenntnisse führen und meinen Arbeitsprozess dokumentieren.
 
