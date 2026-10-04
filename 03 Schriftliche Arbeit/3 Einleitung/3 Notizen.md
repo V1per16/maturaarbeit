@@ -1,0 +1,12 @@
+- #### 3.1
+	- Start mit Erlebnis Kampf
+	- Wieso ich das (Thema und Warum Kampf) gewählt habe
+	- Informationen über mich (Wie lange und wo muay thai)
+- #### 3.2
+	- Was ich konkret in meiner Arbeit gemacht habe
+		- Messungen
+		- Vorbereitung auf Kampf
+		- Kampf selbst
+		- Videoanalysen
+- #### 3.3
+	- Fragestellung und Hypothesen

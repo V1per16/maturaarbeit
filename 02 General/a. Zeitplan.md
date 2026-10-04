@@ -7,8 +7,9 @@
 - [x] **Bis Ende April:** Hypothese und Messparameter festlegen
 - [x] **Bis Mitte Mai:** Messungen machen anhand der Hypothese --> **vorher Absprache mit Herr Angst!**
 - [x] **Bis Ende Mai:** Grundlegende theoretische Recherche über Kampf, Training etc
-- [ ] **Spätestens Anfang Dezember Kampf**
-	- [ ] Laufend Trainingsplan verbessern
+- [x] **Spätestens Anfang Dezember Kampf**
+	- [x] 26.09.2026 Kampf
+	- [x] Laufend Trainingsplan verbessern
 	- [ ] Tiefere Theorie Recherche
 - [x] **Bis Ende August:** Grundgerüst Theoriearbeit Aufbau
 - [ ] **Bis Ende November:** Grossteil der Theoriearbeit geschrieben

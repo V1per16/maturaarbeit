@@ -3,7 +3,7 @@
 # 3. Einleitung
 - ### 3.1 Eigene Informationen / Beweggründe für die Themenwahl
 - ### 3.2 Beschreibung des Projekts
-- ### 3.3 Fragestellung und Hypothese
+- ### 3.3 Fragestellung und Hypothesen
 - ### 3.4 Aufbau der Arbeit
 # 4. Theorie
 - ### 4.1 Muay Thai als Sportart
