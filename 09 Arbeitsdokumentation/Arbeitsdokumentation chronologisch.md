@@ -13,12 +13,12 @@
 	- #### Besprechung mit Herr Angst
 		- Messparameter reichen als wissenschaftlicher Teil
 		- Mehrere Hypothesen die sich als erfüllt oder nicht erfüllt herausstellen
-		- Fragestellung ist die eigentliche Frage mit der ich mich auseinanderset
+		- Fragestellung ist die eigentliche Frage mit der ich mich auseinandersetze in der Arbeit
 - ## Phase Vorbereitung Kampf (Mai - September 2026)
 	- #### Intensive Vorbereitung für den Kampf
 		- Bis vor den Sommerferien habe ich im Training viel Technik gelernt
 		- Seit den Sommerferien habe ich intensiv meine Ausdauer und Kraft trainiert.
-		- An verschiedenen Daten Videos aufgenommen im Training (zb. 15.05. Messdaten aufnehmen / 15.06. / 26.06.)
+		- An verschiedenen Daten Videos aufgenommen sowohl im Training (zb. 15.05. Messdaten aufnehmen / 15.06. / 26.06.) als auch Zuhause (zb. 13.09.)
 	- #### Kampf
 		- 26.09.2026 Skendo's Fight Night K1 Rules 2x2min
 - ## Phase Theorie (August 2026 - Ende Maturarbeit)
