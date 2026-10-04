@@ -9,6 +9,11 @@
 - ## Ende Mai
 	- #### Rücksprache mit Herr Angst
 		- Wir haben festgelegt, dass ich anstatt drei Aspekten (Mental, Physisch und Technisch) nur zwei nehme (Physisch und Technisch), da der Mentale Aspekt sehr schwer ist zu messen und dadurch den Rahmen sprengen würde.
+- ## 04.09.2026
+	- #### Besprechung mit Herr Angst
+		- Messparameter reichen als wissenschaftlicher Teil
+		- Mehrere Hypothesen die sich als erfüllt oder nicht erfüllt herausstellen
+		- Fragese
 - ## Phase Vorbereitung Kampf (Mai - September 2026)
 	- #### Intensive Vorbereitung für den Kampf
 		- Bis vor den Sommerferien habe ich im Training viel Technik gelernt
