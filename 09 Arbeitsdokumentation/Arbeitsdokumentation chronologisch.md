@@ -13,7 +13,7 @@
 	- #### Besprechung mit Herr Angst
 		- Messparameter reichen als wissenschaftlicher Teil
 		- Mehrere Hypothesen die sich als erfüllt oder nicht erfüllt herausstellen
-		- Fragese
+		- Fragestellung ist die eigentliche Frage mit der ich mich auseinanderset
 - ## Phase Vorbereitung Kampf (Mai - September 2026)
 	- #### Intensive Vorbereitung für den Kampf
 		- Bis vor den Sommerferien habe ich im Training viel Technik gelernt
