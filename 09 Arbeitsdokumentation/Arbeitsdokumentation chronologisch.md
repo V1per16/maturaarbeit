@@ -14,5 +14,7 @@
 		- Bis vor den Sommerferien habe ich im Training viel Technik gelernt
 		- Seit den Sommerferien habe ich intensiv meine Ausdauer und Kraft trainiert.
 		- An verschiedenen Daten Videos aufgenommen im Training (zb. 15.05. Messdaten aufnehmen / 15.06. / 26.06.)
+	- #### Kampf
+		- 26.09.2026 Skendo's Fight Night K1 Rules 2x2min
 - ## Phase Theorie (August 2026 - Ende Maturarbeit)
 	- 
