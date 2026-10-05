@@ -15,11 +15,11 @@
 	- #### 4.2.3 Beweglichkeit
 	- #### 4.2.4 Technik
 - ### 4.3 Messmethoden
-	- #### 4.3.1 Smart Watch
-	- #### Videoanalyse
 # 5. Material und Methode
 - ### 5.1 Trainingsplan
-- ### 5.2 Messparameter
+- ### 5.2 Messparameter / Messmethoden
+	- #### 5.2.1 Smart Watch
+	- #### 5.2.2 Videoanalyse
 - ### 5.3 Zeitlicher Ablauf
 
 # 6. Auswertung / Ergebnisse
