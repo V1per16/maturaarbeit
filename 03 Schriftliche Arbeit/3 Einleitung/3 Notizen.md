@@ -1,5 +1,5 @@
 - #### 3.1
-	- Start mit Erlebnis Kampf
+	- Was ich in dieser Arbeit gemacht habe
 	- Wieso ich das (Thema und Warum Kampf) gewählt habe
 	- Informationen über mich (Wie lange und wo muay thai)
 - #### 3.2
