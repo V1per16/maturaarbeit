@@ -10,3 +10,5 @@
 		- Videoanalysen
 - #### 3.3
 	- Fragestellung und Hypothesen
+- #### 3.4
+	- Aufbau der Arbeit
