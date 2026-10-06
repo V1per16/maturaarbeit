@@ -5,7 +5,7 @@
 - #### 3.2
 	- Was ich konkret in meiner Arbeit gemacht habe
 		- Messungen
-			- Videoanalysen
+		- Videoanalysen
 		- Vorbereitung auf Kampf
 		- Kampf selbst
 - #### 3.3
