@@ -5,9 +5,9 @@
 - #### 3.2
 	- Was ich konkret in meiner Arbeit gemacht habe
 		- Messungen
+			- Videoanalysen
 		- Vorbereitung auf Kampf
 		- Kampf selbst
-		- Videoanalysen
 - #### 3.3
 	- Fragestellung und Hypothesen
 - #### 3.4
