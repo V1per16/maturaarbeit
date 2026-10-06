@@ -9,7 +9,7 @@
 		- Grundtechniken
 		- Kombinationen
 - Reaktionsgeschwindigkeit (Mit App)
-	- Nach dem Training durchschnitt aus 5 Messungen 302ms
+	- Nach dem Training durchschnitt aus 5 Messungen 278ms
 
 # Physisch
 - Passiv
