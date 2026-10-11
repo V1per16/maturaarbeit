@@ -12,8 +12,8 @@
 - ### 4.2 Trainingswissenschaft
 	- #### 4.2.1 Kraft
 	- #### 4.2.2 Ausdauer
-	- #### 4.2.3 Beweglichkeit
-	- #### 4.2.4 Technik
+	- #### 4.2.3 Technik
+	- #### 4.2.4 Beweglichkeit
 - ### 4.3 Messmethoden
 # 5. Material und Methode
 - ### 5.1 Trainingsplan
