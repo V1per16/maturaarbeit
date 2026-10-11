@@ -7,7 +7,7 @@
 - ### 3.4 Aufbau der Arbeit
 # 4. Theorie
 - ### 4.1 Muay Thai als Sportart
-	- #### 4.1.1 Technikgrundlagen, Regelwerk
+	- #### 4.1.1 Technikgrundlagen, Regelwerk (+ Unterschiede zu K1)
 	- #### 4.1.2 Muay Thai Stil und Geschichte
 - ### 4.2 Trainingswissenschaft
 	- #### 4.2.1 Kraft
