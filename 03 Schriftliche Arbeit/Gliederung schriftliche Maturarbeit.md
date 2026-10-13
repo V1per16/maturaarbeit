@@ -7,8 +7,11 @@
 - ### 3.4 Aufbau der Arbeit
 # 4. Theorie
 - ### 4.1 Muay Thai als Sportart
-	- #### 4.1.1 Muay Thai / K1 Geschichte (evtl. auch Stilveränderungen)
-	- #### 4.1.2 Technikgrundlagen, Regelwerk (+ Unterschiede zu K1)
+	- #### 4.1.1 Muay Thai Geschichte (evtl. auch Stilveränderungen)
+	- #### 4.1.2 Technikgrundlagen, Regelwerk
+- ### 4.2 K1 als Sportart
+	- #### 4.2.1 K1 Geschichte
+	- #### 4.2.2 Technikgrundlagen, Regelwerk
 - ### 4.2 Trainingswissenschaft
 	- #### 4.2.1 Kraft
 	- #### 4.2.2 Ausdauer
