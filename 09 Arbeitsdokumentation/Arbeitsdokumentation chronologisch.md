@@ -20,6 +20,8 @@
 		- Seit den Sommerferien habe ich intensiv meine Ausdauer und Kraft trainiert.
 		- An verschiedenen Daten Videos aufgenommen sowohl im Training (zb. 15.05. Messdaten aufnehmen / 15.06. / 26.06.) als auch Zuhause (zb. 13.09.)
 	- #### Kampf
-		- 26.09.2026 Skendo's Fight Night K1 Rules 2x2min
+		- 26.09.2026 Skendo's Fight Night K1 Rules 2x2min Unentschieden
 - ## Phase Theorie (August 2026 - Ende Maturarbeit)
-	- 
+	- #### In den Herbstferien
+		- Begonnen den Theorieteil zu schreiben
+		- Grobe Struktur der Theorie - angefangen grobe Teile der Kapitel zu schreiben
