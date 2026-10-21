@@ -5,7 +5,7 @@
 - ### 3.2 Beschreibung des Projekts
 - ### 3.3 Fragestellung und Hypothesen
 - ### 3.4 Aufbau der Arbeit
-# 4. Theorie
+# 4. Theorie (Wissenschaft)
 - ### 4.1 Muay Thai als Sportart
 	- #### 4.1.1 Muay Thai / K1 Geschichte (evtl. auch Stilveränderungen)
 	- #### 4.1.2 Technikgrundlagen, Regelwerk (+ Unterschiede zu K1)
@@ -15,13 +15,13 @@
 	- #### 4.2.3 Technik
 	- #### 4.2.4 Beweglichkeit
 - ### 4.3 Messmethoden
-# 5. Material und Methode
+# 5. Material und Methode (Methoden, Trainings-/Zeitplan)
 - ### 5.1 Trainingsplan
 - ### 5.2 Messparameter / Messmethoden
 	- #### 5.2.1 Smart Watch
 	- #### 5.2.2 Videoanalyse
 - ### 5.3 Zeitlicher Ablauf
-# 6. Auswertung / Ergebnisse
+# 6. Auswertung / Ergebnisse (Meine Ergebnisse)
 - ### 6.1 Technische Entwicklung
 - ### 6.2 Ausdauer / Kraft / Beweglichkeit
 - ### 6.3 Körperzusammensetzung
