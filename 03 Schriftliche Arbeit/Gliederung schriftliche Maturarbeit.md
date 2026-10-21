@@ -21,7 +21,6 @@
 	- #### 5.2.1 Smart Watch
 	- #### 5.2.2 Videoanalyse
 - ### 5.3 Zeitlicher Ablauf
-
 # 6. Auswertung / Ergebnisse
 - ### 6.1 Technische Entwicklung
 - ### 6.2 Ausdauer / Kraft / Beweglichkeit
