@@ -40,8 +40,10 @@
 	- Kraft / Power
 		- 1RM Benchpress
 			- 11.05.2026 16:18 Uhr 70kg 1 rep
+			- 11.09.2026 11:53 Uhr 70kg 1 rep (Buildup weight (multiple sets) 1st test)
 		- Max Pull up in a row
 			- 11.05.2026 16:20 Uhr 9 reps schmal
+			- 11.09.2026 12:08 Uhr 15 reps schmal
 	- Beweglichkeit
 		- Sit and Reach Test
 		- Spagat (Winkel)
