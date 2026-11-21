@@ -13,7 +13,7 @@
 	- [ ] Tiefere Theorie Recherche
 - [x] **Bis Ende August:** Grundgerüst Theoriearbeit Aufbau
 - [ ] **Bis Ende November:** Grossteil der Theoriearbeit geschrieben
-- [ ] **Bis Abgabefrist:** Finale Version schreiben nach Rücksprache mit Herr Angst
+- [ ] **Bis :** Finale Version schreiben nach Rücksprache mit Herr Angst
 
 Laufend Rücksprache --> Termine
 
