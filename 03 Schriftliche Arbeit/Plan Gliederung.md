@@ -40,6 +40,15 @@
 		- ##### Wie die Techniken beurteilt werden und wo die Grenzen liegen
 # 5. Material und Methode (Methoden, Trainings-/Zeitplan)
 - ### 5.1 Eigener Trainingsplan
+	- #### 5.1.1 Ausgangslage und Rahmenbedingungen
+		- ##### Trainingsstand zu Beginn
+		- ##### Wie viel Zeit und Equipment zur Verfügung stand
+		- ##### Welche Ziele der Plan hatte
+	- #### 5.1.2 Aufbau einer Trainingswoche
+		- ##### Welche Einheiten an welchen Tagen mit welchen Schwerpunkten
+	- #### 5.1.3 Trainingsinhalte
+		- ##### 
+	- #### 5.1.4 Anpassungen während der Vorbereitung
 - ### 5.2 Messparameter (Methode)
 	- #### 5.2.1 Technische Parameter
 		- ##### Videoanalyse
