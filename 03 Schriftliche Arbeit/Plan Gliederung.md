@@ -47,7 +47,8 @@
 	- #### 5.1.2 Aufbau einer Trainingswoche
 		- ##### Welche Einheiten an welchen Tagen mit welchen Schwerpunkten
 	- #### 5.1.3 Trainingsinhalte
-		- ##### 
+		- ##### Für jede Fähigkeit aus 4.3 beschreiben was ich gemacht habe
+		- ##### Wo bin ich von den Empfehlungen abgewichen
 	- #### 5.1.4 Anpassungen während der Vorbereitung
 - ### 5.2 Messparameter (Methode)
 	- #### 5.2.1 Technische Parameter
