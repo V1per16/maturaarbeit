@@ -19,7 +19,7 @@
 - ### 4.4 Messmethoden
 # 5. Material und Methode (Methoden, Trainings-/Zeitplan)
 - ### 5.1 Eigener Trainingsplan
-- ### 5.2 Messparameter / Messmethoden
+- ### 5.2 Messparameter (Methode)
 	- #### 5.2.1 Smart Watch
 	- #### 5.2.2 Videoanalyse
 - ### 5.3 Zeitlicher Ablauf
