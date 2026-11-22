@@ -15,7 +15,8 @@
 	- #### 4.2.2 Ausdauer
 	- #### 4.2.3 Technik
 	- #### 4.2.4 Beweglichkeit
-- ### 4.3 Messmethoden
+- ### 4.3 Optimale Trainingsmethoden
+- ### 4.4 Messmethoden
 # 5. Material und Methode (Methoden, Trainings-/Zeitplan)
 - ### 5.1 Trainingsplan
 - ### 5.2 Messparameter / Messmethoden
