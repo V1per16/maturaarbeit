@@ -66,13 +66,14 @@
 		- ##### Wann welche Messungen stattfanden (+ Komplikationen Schlussmessungen)
 # 6. Auswertung / Ergebnisse (Meine Ergebnisse)
 - ### 6.1 Technische Entwicklung
-- ### 6.2 Ausdauer / Kraft / Beweglichkeit
-- ### 6.3 Körperzusammensetzung
+- ### 6.2 Körperzusammensetzung
+- ### 6.3 Ausdauer / Kraft / Beweglichkeit
 
 # 7. Interpretation / Diskussion
 - ### 7.1 Bezug auf Hypothese
 - ### 7.2 Rückblick auf die Fragestellung
-- ### 7.3 Genauigkeit, Fehlermöglichkeiten, Limitationen
+- ### 7.3 Bewertung des eigenen Trainingsplans
+- ### 7.4 Genauigkeit, Fehlermöglichkeiten, Limitationen
 
 # 8. Schlusswort
 # 9. Danksagung
