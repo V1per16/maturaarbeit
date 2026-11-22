@@ -16,9 +16,11 @@
 	- #### 4.2.3 Technik
 	- #### 4.2.4 Beweglichkeit
 - ### 4.3 Trainingsmethoden im Kampfsport
-	- #### 4.3.1
-	- #### 4.3.2
-	- #### 4.3.3
+	- #### 4.3.1 Krafttraining
+	- #### 4.3.2 Ausdauertraining
+	- #### 4.3.3 Techniktraining
+	- #### 4.3.4 Beweglichkeitstraining
+	- #### 4.3.5 
 - ### 4.4 Messmethoden
 	- #### 4.4.1
 	- #### 4.4.2
