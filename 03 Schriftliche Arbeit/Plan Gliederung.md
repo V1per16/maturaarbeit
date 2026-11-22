@@ -32,7 +32,7 @@
 	- #### 4.4.1 Gütekriterien von Messungen
 		- ##### Objektivität, Reliabilität und Validität
 	- #### 4.4.2 Smartwatch
-		- ##### Wie die Uhr misst 
+		- ##### Wie und wie genau die Uhr misst 
 	- #### 4.4.3 Sportmotorische Tests
 		- ##### 1RM-Test, Klimmzug, 5km Lauf, Sit-and-Reach und Spagatwinkel
 		- ##### Was sie messen und wie zuverlässig sie sind
