@@ -60,6 +60,10 @@
 		- ##### Ausdauer
 		- ##### Beweglichkeit
 - ### 5.3 Zeitlicher Ablauf
+	- #### 5.3.1 Phasen der Vorbereitung
+		- ##### Phasen vor den Sommerferien vs danach vs direkt vor dem Kampf
+	- #### 5.3.2 Messzeitpunkte
+		- ##### 
 # 6. Auswertung / Ergebnisse (Meine Ergebnisse)
 - ### 6.1 Technische Entwicklung
 - ### 6.2 Ausdauer / Kraft / Beweglichkeit
