@@ -17,15 +17,27 @@
 	- #### 4.2.4 Beweglichkeit
 - ### 4.3 Trainingsmethoden im Kampfsport
 	- #### 4.3.1 Krafttraining
+		- ##### Empfehlungen zu Krafttraining auf einen Kampf
 	- #### 4.3.2 Ausdauertraining
+		- ##### Aerobes und anaerobes Ausdauertrainings für den Kampf
 	- #### 4.3.3 Techniktraining
+		- ##### Wie Technik im Kampfsport trainiert wird
+		- ##### Schattenboxen, Pratzen, Sandsack und Sparring
+		- ##### Wieso Wiederholung und Feedback wichtig sind
 	- #### 4.3.4 Beweglichkeitstraining
+		- ##### Statisches und dynamisches Dehnen
 	- #### 4.3.5 Trainingsplanung vor einem Wettkampf
 	- #### (4.3.6 Trainingspraxis von Spitzenkämpfern)
 - ### 4.4 Messmethoden
-	- #### 4.4.1
-	- #### 4.4.2
-	- #### 4.4.3
+	- #### 4.4.1 Gütekriterien von Messungen
+		- ##### Objektivität, Reliabilität und Validität
+	- #### 4.4.2 Smartwatch
+		- ##### Wie die Uhr misst 
+	- #### 4.4.3 Sportmotorische Tests
+		- ##### 1RM-Test, Klimmzug, 5km Lauf, Sit-and-Reach und Spagatwinkel
+		- ##### Was sie messen und wie zuverlässig sie sind
+	- #### 4.4.4 Videoanalyse
+		- ##### Wie die Techniken beurteilt werden und wo die Grenzen liegen
 # 5. Material und Methode (Methoden, Trainings-/Zeitplan)
 - ### 5.1 Eigener Trainingsplan
 - ### 5.2 Messparameter (Methode)
