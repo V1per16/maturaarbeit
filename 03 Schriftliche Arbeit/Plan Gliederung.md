@@ -20,7 +20,8 @@
 	- #### 4.3.2 Ausdauertraining
 	- #### 4.3.3 Techniktraining
 	- #### 4.3.4 Beweglichkeitstraining
-	- #### 4.3.5 
+	- #### 4.3.5 Trainingsplanung vor einem Wettkampf
+	- #### (4.3.6 Trainingspraxis von Spitzenkämpfern)
 - ### 4.4 Messmethoden
 	- #### 4.4.1
 	- #### 4.4.2
