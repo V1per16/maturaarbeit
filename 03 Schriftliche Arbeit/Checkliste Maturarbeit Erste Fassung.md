@@ -16,7 +16,7 @@
 	- [x] 4.2.3 Technik
 	- [x] 4.2.4 Beweglichkeit
 - ### 4.3 Trainingsmethoden im Kampfsport
-	- [ ] 4.3.1 Krafttraining
+	- [x] 4.3.1 Krafttraining
 		- ##### Empfehlungen zu Krafttraining auf einen Kampf
 	- [ ] 4.3.2 Ausdauertraining
 		- ##### Aerobes und anaerobes Ausdauertrainings für den Kampf
