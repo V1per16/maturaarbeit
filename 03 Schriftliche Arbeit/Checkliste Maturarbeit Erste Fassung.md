@@ -27,7 +27,6 @@
 	- [ ] 4.3.4 Beweglichkeitstraining
 		- ##### Statisches und dynamisches Dehnen
 	- [ ] 4.3.5 Trainingsplanung vor einem Wettkampf
-	- [ ] (4.3.6 Trainingspraxis von Spitzenkämpfern)
 - ### 4.4 Messmethoden
 	- [ ] 4.4.1 Gütekriterien von Messungen
 		- ##### Objektivität, Reliabilität und Validität
