@@ -20,7 +20,7 @@
 		- ##### Empfehlungen zu Krafttraining auf einen Kampf
 	- [x] 4.3.2 Ausdauertraining
 		- ##### Aerobes und anaerobes Ausdauertrainings für den Kampf
-	- [ ] 4.3.3 Techniktraining
+	- [x] 4.3.3 Techniktraining
 		- ##### Wie Technik im Kampfsport trainiert wird
 		- ##### Schattenboxen, Pratzen, Sandsack und Sparring
 		- ##### Wieso Wiederholung und Feedback wichtig sind
